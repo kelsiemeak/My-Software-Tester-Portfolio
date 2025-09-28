@@ -19,6 +19,27 @@
 | ISTQB Foundation Test Analyst | ISTQB | 2023 |
 
 
+## Tech Skills 💻
+SQL
+| syntax and order of execution | comparison operators | logical operators | scalar functions | aggregation functions | others |
+|-------------------------------|----------------------|------------------|------------------|-----------------------|--------|
+| SELECT (*, LIKE, TOP)         | =                    | AND              | GETDATE          | COUNT ()              | JOIN   |
+| FROM                          | !=                   | BETWEEN          | UPPER            | SUM ()                | AS     |
+| WHERE                         | <>                   | IN               | LOWER            | MIN ()                | UNION  |
+| GROUP BY                      | >                    | LIKE             | DATEDIFF (HOUR, MONTH, YEAR etc.) |MAX()                       |        |
+| ORDER BY (ASC, DESC)          | <                    | NOT              |                  | AVG()                      |        |
+| UPDATE (SET)                  | >=                   | OR               |                  |                       |        |
+| ALTER TABLE (ADD)             | <=                   | IS NULL          |                  |                       |        |
+| INSERT INTO                   | !<                   | IS NOT NULL      |                  |                       |        |
+|                               | !>                   |                  |                  |                       |        |
+
+- Rest API testing
+- Test case creation
+- Documentation creation
+- Bug reports
+- Software development life cycle, CI & CD
+- Agile methodologies
+
 ## My Own Projects 🪳
 
 ### ✅ Exploratory testing of [Project Name / Website]  
